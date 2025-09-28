@@ -6,8 +6,6 @@ I worked with the FBI NICS Gun Background Check dataset, combined with socio-dem
 
 Objective: Normalize firearm background checks per capita and explore whether demographic and economic factors are related to gun demand.
 
----
-
 ## Steps Taken
 
 ### 1. Data Preparation & Cleaning
@@ -36,14 +34,10 @@ Census variables were grouped into thematic categories for structured comparison
 - Health & Insurance: disability, uninsured rates  
 - Employment & Labor: labor force participation, employment  
 
----
-
 ## Key Findings
 - Large differences in firearm background checks per capita across states.  
 - No strong or consistent correlation with income, poverty, education, age, or ethnicity.  
 - Standard demographic indicators alone do not fully explain firearm demand variations.
-
----
 
 ## Deliverables
 - Jupyter Notebook containing the full workflow (cleaning, transformations, analysis, visualizations).  
