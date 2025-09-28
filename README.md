@@ -14,7 +14,6 @@ Objective: Normalize firearm background checks per capita and explore whether de
 - Cleaned the demographic dataset by dropping irrelevant fields.  
 - Aligned datasets by year for consistency.  
 - Selected relevant firearm categories and computed state-level totals.  
-- Merged demographic indicators with firearm check data.
 
 ### 2. Data Transformation
 - Normalized firearm checks by population (per capita).  
