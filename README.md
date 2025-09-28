@@ -35,7 +35,7 @@ Census variables were grouped into thematic categories for structured comparison
 
 ## Key Findings
 - Large differences in firearm background checks per capita across states.  
-- No strong or consistent correlation with income, poverty, education, age, or ethnicity.  
+- No strong or consistent correlation emerged.  
 - Standard demographic indicators alone do not fully explain firearm demand variations.
 
 ## Deliverables
